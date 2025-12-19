@@ -1,2 +1,6 @@
 /.venv
 /.vscode
+
+# 大型資料檔案 (超過 GitHub 100MB 限制)
+creditcard.csv
+*.db
